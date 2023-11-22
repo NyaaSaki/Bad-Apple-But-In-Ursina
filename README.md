@@ -8,4 +8,6 @@ You can play a different video by putting the frames in the frames folder as png
 
 Video:
 
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/1OJeNDOgFEE?si=_JUw3qi_pxhadQAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]
+[<img src="https://img.youtube.com/vi/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx)
+
