@@ -10,3 +10,5 @@ Video:
 
 [Bad Apple but its in Ursina](https://www.youtube.com/embed/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx)
 
+frames dataset from https://www.kaggle.com/datasets/byrmrm/bad-apple?select=frames
+
