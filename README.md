@@ -8,6 +8,5 @@ You can play a different video by putting the frames in the frames folder as png
 
 Video:
 
-[<img src="https://img.youtube.com/vi/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx)
+[Bad Apple but its in Ursina](https://www.youtube.com/embed/1OJeNDOgFEE?si=zwVzZzUfMf6CV4Yx)
 
